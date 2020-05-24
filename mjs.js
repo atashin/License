@@ -1,1 +1,4 @@
-var __lic = 32015001;
+ function getT_license() {
+
+        return 32015001;
+    }
